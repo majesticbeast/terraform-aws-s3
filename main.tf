@@ -15,3 +15,5 @@ resource "aws_s3_bucket" "my_bucket" {
 
   tags = var.tags
 }
+
+# dummy update
